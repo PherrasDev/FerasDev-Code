@@ -10,5 +10,5 @@ Fun Facts:
 
   My favorite animal is the fox.
 
-  [![YouTube](https://img.shields.io/badge/YouTube-%40FerasDev-red?style=for-the-badge&logo=youtube)](https://youtube.com/@Pherras)
+  [![YouTube](https://img.shields.io/badge/YouTube-%40Pherras-red?style=for-the-badge&logo=youtube)](https://youtube.com/@Pherras)
 [![Discord](https://img.shields.io/badge/Discord-feras__dev-7289da?style=for-the-badge&logo=discord)](https://discord.com/)
